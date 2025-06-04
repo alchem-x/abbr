@@ -1,0 +1,27 @@
+{
+  "name": "abbr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sort": "node src/sort.js",
+    "format": "prettier --write --cache ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchem-x/abbr.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchem-x/abbr/issues"
+  },
+  "homepage": "https://github.com/alchem-x/abbr#readme",
+  "description": "",
+  "devDependencies": {
+    "lodash-es": "^4.17.21",
+    "prettier": "^3.5.3",
+    "yaml": "^2.8.0"
+  }
+}
